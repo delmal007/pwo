@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+:root {
+	
+	/* #ff650c in decimal RGB */
+    --main-color: rgb(59,20,96);
+	--main-color-rgb:59,20,96;
+    /* --main-color: rgb(255,101,12);
+	--main-color-rgb:255,101,12; */
+	/* #ff650c */
+	/* #3b1460 */
+}
